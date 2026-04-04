@@ -163,5 +163,5 @@ See `CAPABILITIES.md` for a complete walkthrough of every feature.
 
 ## 🤝 Contributing
 
-Pull requests are welcome. For major changes, please open an issue first.
+Pull requests are welcome. For major changes, please open an issue first. 
 
